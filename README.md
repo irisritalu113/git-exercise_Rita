@@ -23,7 +23,7 @@ Things you may want to cover:
 
 * ...
 
-git clone https://github.com/ALPHACamp/git-exercise_Rita.git
+git clone https://github.com/irisritalu113/git-exercise_Rita.git
 cd git-exercise_Rita
 bundle install
 rails db:migrate
